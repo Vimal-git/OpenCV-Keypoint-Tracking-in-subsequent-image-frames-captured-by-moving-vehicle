@@ -1,4 +1,4 @@
-# OpenCV-Keypoint-Tracking-in-subsequent-image-frames-captured-by-moving-vehicle
+# OpenCV-Keypoint-tracking-in-moving-vehicles
 * This project contains 10 time sequenced image frames (part of live video from a moving vehicle).
 * The project uses the above frames to displays on monitor the performance of different keypoint detectors and descriptors supported by opencv for keypoint matching.
 * User can choose the keypoint detectors and keypoint descriptors at runtime.
